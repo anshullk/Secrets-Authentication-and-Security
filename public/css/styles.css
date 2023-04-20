@@ -1,0 +1,22 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  padding:5px;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+
+.customButton{
+  margin:10px 5px;
+}
